@@ -1,0 +1,3 @@
+8. Backtesting. Project
+Basics: Learn best practices of backtesting and see what overfitting can "look like" in practice.
+Learn how to optimization a portfolio with transaction cost. Learn some additional ways to design your optimization with efficiency in mind. This is really helpful when backtesting, because having reasonably shorter runtimes allows you to test and iterate on your alphas more quickly.

@@ -1,0 +1,6 @@
+2. Breakout Strategy. Project
+Learn about the overall quant workflow, including alpha signal generation, alpha combination, portfolio optimization, and trading.
+Learn the importance of outliers and how to detect them. Learn about methods designed to handle outliers.
+Learn about regression, and related statistical tools that pre-process data before regression analysis. Learn commonly-used time series models.
+Learn about stock volatility, and how the GARCH model analysis volatility. See how volatility is used in equity trading.
+Learn about pair trading, and study the tools used in identifying stock pairs and making trading decision.

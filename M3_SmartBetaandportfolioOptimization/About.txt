@@ -1,0 +1,4 @@
+3. Smart beta and portfolio optimization. Project
+Overview of stocks, indices, and funds. Learn about ETFs.
+Learn fundamentals of portfolio risk and return.
+Learn how to optimize portfolios to meet certain criteria and constraints.

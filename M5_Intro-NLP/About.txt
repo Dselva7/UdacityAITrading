@@ -1,0 +1,5 @@
+5. Intro to NLP. Project
+NLP pipeline consists of text processing, feature extraction, and modeling.
+Text processing: Learn text acquisition (plane text, tabular data, and online resources), simple data cleaning with python regex and BeautifulSoup, using nltk (natural language toolkit) for tokenization, stemming, and lemmatization.
+Financial Statement: Learn how to apply Regexes to 10Ks, how BeautifulSoup can ease the parse of (perfectly formatted) html and xml downloaded using request library.
+Basic NLP Analysis: Learn quantitatively measure readability of doc

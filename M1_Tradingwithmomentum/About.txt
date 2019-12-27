@@ -1,0 +1,2 @@
+1. Trading with Momentum. Project
+Learn basics of stock markets. Learn how to calculate stock returns and design momentum trading strategy.

@@ -1,0 +1,23 @@
+6. Sentiment Analysis with Neural Networks.
+
+Neural Network Basics: Learn maximum likelihood, cross entropy, logistic regression, gradient decent, regularization, and practical heuristics for training neural networks.
+Deep Learning with PyTorch.
+<!-- 
+    1. [Tensors in Pytorch](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%201%20-%20Tensors%20in%20PyTorch%20(Exercises).ipynb)
+
+    2. [Neutral Networks in Pytorch](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Exercises).ipynb)
+
+    3. [Training Neutral Networks](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%203%20-%20Training%20Neural%20Networks%20(Exercises).ipynb)
+
+    4. [Fashion MNIST](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%204%20-%20Fashion-MNIST%20(Exercises).ipynb)
+
+    5. [Inference and Validation](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%205%20-%20Inference%20and%20Validation%20(Exercises).ipynb)
+
+    6. [Saving and loading models](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%206%20-%20Saving%20and%20Loading%20Models.ipynb)
+
+    7. [Load Image Data](https://github.com/scumabo/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%207%20-%20Loading%20Image%20Data%20(Exercises).ipynb)
+
+Recurrence Neutral Networks:
+Learn to use RNN to predict simple Time Series and train Character-Level LSTM to generate new text based on the text from the book.
+Learn Word2Vec algorithm using the Skip-gram Architecture and with Negative Sampling.
+Sentiment Analysis RNN: Implement a recurrent neural network that can predict if the text of a movie review is positive or negative.

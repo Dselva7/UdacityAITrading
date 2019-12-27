@@ -1,0 +1,4 @@
+4. Alpha Research and Factor Modeling. Project
+Learn factors and how to convert factor values into portfolio weights in a dollar neutral portfolio with leverage ratio equals to 1 (i.e., standardize factor values).
+Learn fundamentals of factor models and type of factors. Learn how to compute portfolio variance using risk factor models. Learn time series and cross-sectional risk models.
+Learn how to use PCA to build risk factor models.
